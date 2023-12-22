@@ -1,0 +1,14 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.header-section{
+    background-color:blueviolet;
+    }
+    .container {
+        background-color: brown;
+        width:70%;
+        margin:0 auto;
+    }
